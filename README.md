@@ -8,3 +8,4 @@ Este é um simples gerador de senhas aleatórias escrito em Python.
    ```bash
    git clone https://github.com/seu-usuario/gerador-de-senhas.git
    cd gerador-de-senhas
+   Depois é só dar o comando "python .\geradordesenhas.py"
